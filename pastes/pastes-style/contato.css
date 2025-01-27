@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+  font-size: 62.5%;
+  --fonte-titulo: "Poppins", serif;
+  --fonte-texto: "Open Sans", serif;
+  --btn-cor: #515569;
+  --bg-color: rgb(248, 248, 248);
+  --bg-card-fundo: #e7e1e1;
+  --bg-color-section: #18265a;
+}
+
+body{
+  font-size: 1.8rem;
+  font-family: var(--fonte-texto);
+  background-color: var(--bg-color);
+}
+
+h1 {
+  justify-content: center;
+  margin: 0 auto;
+  font-weight: bolder;
+}
+
+.form-orcamento label {
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.form-orcamento input, input textarea, select option {
+  font-family: var(--fonte-texto);
+}
+
+.form-orcamento input, .form-orcamento select {
+  font-size: 1.8rem;
+}
+
+.form-orcamento {
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: var(--bg-card-fundo);
+  border: 1px solid black;
+}
