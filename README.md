@@ -106,7 +106,9 @@ CREATE TABLE pacote_destino (
     FOREIGN KEY (destino_id) REFERENCES Destino (id)
 );
 
+
+```
 ## 👤 Autor
 - **Nome:** [João Vitor Wessellenns Costa]
-- **GitHub:** [joao-wess](https://github.com/joao-wess
+- **GitHub:** [joao-wess](https://github.com/joao-wess]
 - **E-mail:** joaovwcosta3@gmail.com
