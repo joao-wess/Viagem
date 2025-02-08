@@ -109,6 +109,6 @@ CREATE TABLE pacote_destino (
 
 ```
 ## 👤 Autor
-- **Nome:** [João Vitor Wessellenns Costa]
-- **GitHub:** [joao-wess](https://github.com/joao-wess]
+- **Nome:** João Vitor Wessellenns Costa
+- **GitHub:** [joao-wess](https://github.com/joao-wess)
 - **E-mail:** joaovwcosta3@gmail.com
