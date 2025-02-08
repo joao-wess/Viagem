@@ -9,7 +9,6 @@ Este projeto consiste no desenvolvimento de um site para uma agência de viagens
 2. [Funcionalidades](#-funcionalidades)
 3. [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 4. [Modelagem do Banco de Dados](#-modelagem-do-banco-de-dados)
-5. [Como Executar o Projeto](#-como-executar-o-projeto)
 6. [Autor](#-autor)
 
 ---
@@ -106,3 +105,8 @@ CREATE TABLE pacote_destino (
     FOREIGN KEY (pacote_id) REFERENCES Pacote (id),
     FOREIGN KEY (destino_id) REFERENCES Destino (id)
 );
+
+## 👤 Autor
+- **Nome:** [João Vitor Wessellenns Costa]
+- **GitHub:** [joao-wess](https://github.com/joao-wess
+- **E-mail:** joaovwcosta3@gmail.com
