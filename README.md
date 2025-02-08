@@ -34,14 +34,15 @@ O projeto simula o site de uma agência de viagens, com uma página inicial atra
 ---
 
 ## 🗄️ Modelagem do Banco de Dados
+
 ### Diagrama Conceitual (DER)
-![Diagrama Conceitual](link_para_imagem_do_diagrama_conceitual.png)
+![Diagrama Conceitual](https://github.com/user-attachments/assets/c09c7b10-7ba7-48ac-9ec4-f5c6e36a1234)
 
 ### Diagrama Lógico
-![Diagrama Lógico](link_para_imagem_do_diagrama_logico.png)
+![Diagrama Lógico](https://github.com/user-attachments/assets/aa980196-b621-4ae2-96c7-d06f81c1b855)
 
 ### Diagrama Físico
-![Diagrama Físico](link_para_imagem_do_diagrama_fisico.png)
+![Diagrama Físico](https://github.com/user-attachments/assets/03326bed-e2b9-4ad6-a4d2-4f5768060fbc)
 
 ### Script SQL
 ```sql
