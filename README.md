@@ -28,7 +28,7 @@ O projeto simula o site de uma agência de viagens, com uma página inicial atra
 ## 🛠️ Tecnologias Utilizadas
 - **Front-end:** HTML, CSS, Bootstrap.
 - **Banco de Dados:** Modelagem em MySQL (diagramas e script SQL).
-- **Ferramentas:** BRModelo, Workbench.
+- **Ferramentas:** BRModelo, Workbench, VSCode.
 
 ---
 
